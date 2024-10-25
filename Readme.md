@@ -14,7 +14,6 @@ I'm a computer science student at Rutgers University, New Brunswick, expected to
   - [Personal Portfolio](https://zeelpatel.online/index.html)
   - [Netflix Clone](https://github.com/Zeel200/netflix)
   - [Math Calculator](https://github.com/Zeel200/Calculator)
-  - DeviceWise - Online auction/shopping site for used old electronics (in development)
 
 ## About Me
 I'm passionate about software engineering and always eager to learn new things. Let's connect and collaborate! 🚀
