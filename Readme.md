@@ -16,7 +16,7 @@ I'm a computer science student at Rutgers University, New Brunswick, expected to
   - [Treact](https://zeel200.github.io/treact/)
 
 ## About Me
-I'm passionate about software engineering and always eager to learn new things. Let's connect and collaborate! 🚀
+I'm passionate about frontend engineering and am always eager to learn new things. Let's connect and collaborate! 🚀
 
 ## Linkedin
 https://www.linkedin.com/in/zeelpatel03/
