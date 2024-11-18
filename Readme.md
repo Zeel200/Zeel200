@@ -11,9 +11,9 @@ I'm a computer science student at Rutgers University, New Brunswick, expected to
 
 ## Projects
 - 💻 Worked on various web development projects:
-  - [Personal Portfolio](https://zeelpatel.online/index.html)
-  - [Netflix Clone](https://github.com/Zeel200/netflix)
-  - [Math Calculator](https://github.com/Zeel200/Calculator)
+  - [Personal Portfolio](https://zeel200.github.io/ZeelPortfolio/)
+  - [Online Library](https://zeel200.github.io/E-Commerce/)
+  - [Treact](https://zeel200.github.io/treact/)
 
 ## About Me
 I'm passionate about software engineering and always eager to learn new things. Let's connect and collaborate! 🚀
