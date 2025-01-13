@@ -13,6 +13,7 @@ I'm recent computer science graduate from Rutgers University, New Brunswick, Her
 - 💻 Worked on various web development projects:
   - [Personal Portfolio](https://zeelpatel.online/)
   - [Brainwave](https://github.com/Zeel200/Brainwave)
+  - [Amazon](https://github.com/Zeel200/amazonclone)
   - [Online Library](https://zeel200.github.io/E-Commerce/)
   - [Treact](https://zeel200.github.io/treact/)
 
